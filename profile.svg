@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="800px" height="440px" font-size="16px">
+<style>
+:root {
+  --bg: #f6f8fa;
+  --text: #24292f;
+  --key: #953800;
+  --value: #0a3069;
+  --cc: #c2cfde;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --text: #c9d1d9;
+    --key: #ffa657;
+    --value: #79c0ff;
+    --cc: #8b949e;
+  }
+}
+text, tspan {white-space: pre;}
+.key {fill: var(--key);}
+.value {fill: var(--value);}
+.cc {fill: var(--cc);}
+</style>
+<rect width="800px" height="440px" fill="var(--bg)" rx="15"/>
+<text x="15" y="30" fill="var(--text)">
+<tspan x="15" y="30">         /\</tspan>
+<tspan x="15" y="50">        /  \</tspan>
+<tspan x="15" y="70">       /    \</tspan>
+<tspan x="15" y="90">      /______\</tspan>
+<tspan x="15" y="110">     |        |</tspan>
+<tspan x="15" y="130">     |  ____  |</tspan>
+<tspan x="15" y="150">     | |    | |</tspan>
+<tspan x="15" y="170">     | |____| |</tspan>
+<tspan x="15" y="190">     |  ____  |</tspan>
+<tspan x="15" y="210">     | |    | |</tspan>
+<tspan x="15" y="230">     | |____| |</tspan>
+<tspan x="15" y="250">     |        |</tspan>
+<tspan x="15" y="270">     /|______|\</tspan>
+<tspan x="15" y="290">    /          \</tspan>
+<tspan x="15" y="310">   /____________\</tspan>
+</text>
+<text x="200" y="30" fill="var(--text)">
+<tspan x="200" y="30">jadore@thompson -——————————————————————————————</tspan>
+<tspan x="200" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="200" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Pulsegrid</tspan>
+<tspan x="200" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Backend Engineer</tspan>
+<tspan x="200" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan>
+<tspan x="200" y="130" class="cc">. </tspan>
+<tspan x="200" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> </tspan><tspan class="value">Java, Kotlin, Python, TypeScript, SQL</tspan>
+<tspan x="200" y="170" class="cc">. </tspan><tspan class="key">Technologies</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> </tspan><tspan class="value">Docker, Linux, AWS, Kafka, Redis, Traefik</tspan>
+<tspan x="200" y="190" class="cc">. </tspan><tspan class="key">Technologies</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">GitHub Actions, Cloudflare</tspan>
+<tspan x="200" y="230">- Contact -——————————————————————————————————</tspan>
+<tspan x="200" y="250" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">jadorethompson6@gmail.com</tspan>
+<tspan x="200" y="270" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">JadoreThompson</tspan>
+<tspan x="200" y="290" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">jadore-t-49379a295</tspan>
+<tspan x="200" y="310" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">+44 7532 654514</tspan>
+<tspan x="200" y="350">- GitHub Stats -——————————————————————————————</tspan>
+<tspan x="200" y="370" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">9</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">74</tspan>
+<tspan x="200" y="390" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">16</tspan>
+</text>
+</svg>
